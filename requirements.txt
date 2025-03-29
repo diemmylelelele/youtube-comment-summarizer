@@ -1,0 +1,7 @@
+google-api-python-client
+langchain
+langchain_chroma
+langchain-ollama
+python-dotenv
+flask
+flask-cors
